@@ -1,1 +1,1 @@
-# AccommodationFlight
+# AccommodationBookingPlatform
